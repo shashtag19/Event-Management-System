@@ -13,9 +13,7 @@ The system ensures smooth coordination between users and administrators
 # Tech Stack
 Frontend
 
-HTML5
-CSS3
-Vanilla JavaScript (Fetch API, Polling)
+HTML5, CSS3
 
 Backend
 
