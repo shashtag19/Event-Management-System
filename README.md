@@ -26,11 +26,11 @@ Database
 MySQL
 
 # Core Concepts demonstrated
-Queue Management (FIFO)
-Client-Server Architecture
-Asynchronous Requests (AJAX / Fetch API)
-Real-Time Updates using Polling
-Basic State Management (Pending → Ready)
+1) Queue Management (FIFO)
+2) Client-Server Architecture
+3) Asynchronous Requests (AJAX / Fetch API)
+4) Real-Time Updates using Polling
+5) Basic State Management (Pending → Ready)
 
 # Why this project
 This project focuses on solving a real-world problem among students using simple but effective system design.
